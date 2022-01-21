@@ -24,5 +24,10 @@ namespace FirstRepoApp
         {
             InitializeComponent();
         }
+
+        public void MetodaNIc()
+        {
+
+        }
     }
 }
